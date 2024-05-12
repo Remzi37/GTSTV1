@@ -1,3 +1,1 @@
-# GTSTV1
- this is gtst course
-try one
+This is note written while taking the Geez Tech Security Tester course
